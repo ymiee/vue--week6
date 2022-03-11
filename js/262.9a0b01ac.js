@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_week6"]=self["webpackChunkvue_week6"]||[]).push([[262],{9262:function(e,n,t){t.r(n),t.d(n,{default:function(){return d}});var r=t(3396);const u={class:"my-5 text-center h2 text-danger fw-bold"};function c(e,n){return(0,r.wg)(),(0,r.iD)("div",u," 404 找不到頁面 ")}var s=t(89);const a={},f=(0,s.Z)(a,[["render",c]]);var d=f}}]);
+//# sourceMappingURL=262.9a0b01ac.js.map

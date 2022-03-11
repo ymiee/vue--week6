@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_week6"]=self["webpackChunkvue_week6"]||[]).push([[33],{5033:function(e,n,u){u.r(n),u.d(n,{default:function(){return k}});var t=u(3396);const r={class:"about"},a=(0,t._)("h1",null,"關於的故事",-1),c=[a];function s(e,n,u,a,s,i){return(0,t.wg)(),(0,t.iD)("div",r,c)}var i={name:"AboutView"},o=u(89);const f=(0,o.Z)(i,[["render",s]]);var k=f}}]);
+//# sourceMappingURL=33.4a4fa443.js.map

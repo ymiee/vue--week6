@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_week6"]=self["webpackChunkvue_week6"]||[]).push([[664],{664:function(e,n,u){u.r(n),u.d(n,{default:function(){return i}});var r=u(3396);const t={class:"py-5"};function c(e,n){return(0,r.wg)(),(0,r.iD)("div",t," 產品管理 ")}var s=u(89);const a={},f=(0,s.Z)(a,[["render",c]]);var i=f}}]);
+//# sourceMappingURL=664.dc3da0b7.js.map
